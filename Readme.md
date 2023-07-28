@@ -1,5 +1,7 @@
 # CSS ASSIGNMENT 
-This assignment is done in contribution with my class mate 
+This assignment is done in contribution with my classmate 
 
-student id 1 : 200540101
-student id 2 : 
+Student ID 1 : 200540101
+student ID 2 : 
+
+# https://abhinair203.github.io/ASSIGNMENT2/
